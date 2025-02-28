@@ -1,4 +1,5 @@
-Super Mall Web Application
+**Super Mall Web Application**
+
 Project Overview
 The Super Mall Web Application is a responsive e-commerce platform designed to enhance the shopping experience by providing an organized and efficient digital platform for managing shops, products, and offers within a mall.
 Features
@@ -47,7 +48,7 @@ Limitations
 * Requires a stable internet connection.
 * Real-time database costs may increase with large-scale usage.
 * Limited AI-based recommendations in the current version.
-Future Enhancements
+#Future Enhancements
 * AI-based product recommendations.
 * Mobile app version (Android & iOS).
 * Multi-mall integration for expanded coverage.
